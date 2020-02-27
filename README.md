@@ -1,4 +1,7 @@
-# vue-upload-files
+# Vue - Axios File Upload example
+
+For more details, please visit:
+> [Vue File Upload example using Axios](https://bezkoder.com/vue-axios-file-upload/)
 
 ## Project setup
 ```
